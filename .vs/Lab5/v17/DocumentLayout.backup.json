@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E39E78-FA09-4F9F-8C92-A2FD0EC13383}|Lab5.csproj|e:\\fpt polytechnic\\lap trinh c# cho unity\\labs\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E39E78-FA09-4F9F-8C92-A2FD0EC13383}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E39E78-FA09-4F9F-8C92-A2FD0EC13383}|Lab5.csproj|E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E39E78-FA09-4F9F-8C92-A2FD0EC13383}|Lab5.csproj|solutionrelative:useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\UserAccount.cs",
+              "RelativeDocumentMoniker": "UserAccount.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\UserAccount.cs",
+              "RelativeToolTip": "UserAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:34:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\Lap trinh C# cho Unity\\Labs\\Lab5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:33:49.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

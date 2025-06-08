@@ -1,0 +1,7 @@
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\bin\Debug\Lab5.exe.config
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\bin\Debug\Lab5.exe
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\bin\Debug\Lab5.pdb
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\obj\Debug\Lab5.exe
+E:\FPT Polytechnic\Lap trinh C# cho Unity\Labs\Lab5\obj\Debug\Lab5.pdb
